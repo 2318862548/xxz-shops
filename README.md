@@ -1,5 +1,5 @@
 # xxz-shops
-熊家商城
+熊家商城（熊小子）
 项目主要是一个后台管理系统的增删改查和用户端的商品展示与商品详情
 实现技术：node.js+vue+vue-cli+vue-router++mysql+axios
 
